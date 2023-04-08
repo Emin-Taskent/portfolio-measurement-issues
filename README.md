@@ -13,6 +13,13 @@ A/B testi 1 aydır devam ediyor ve xyz.com şimdi sizden bu A/B testinin sonuçl
 
 Bir firmanın web site bilgilerini içeren bu veri setinde kullanıcıların gördükleri ve tıkladıkları reklam sayıları gibi bilgilerin yanı sıra buradan gelen kazanç bilgileri yer almaktadır. Kontrol ve Test grubu olmak üzere iki ayrı veri seti vardır. Kontrol grubuna **Maximum Bidding**, test grubuna **Average Bidding** uygulanmıştır.
 
+    Değişkenler;
+    
+* impression: Reklam görüntüleme sayısı
+* Click: Görüntülenen reklama tıklama sayısı
+* Purchase: Tıklanan reklamlar sonrası satın alınan ürün sayısı
+* Earning: Satın alınan ürünler sonrası elde edilen kazanç
+
 ## Rating Product & Sorting Reviews in Amazon
 
 ### İş problemi
